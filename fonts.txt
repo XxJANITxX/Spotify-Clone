@@ -1,0 +1,2 @@
+font-family: 'Aboreto', cursive;
+font-family: 'Varela Round', sans-serif;
